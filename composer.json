@@ -1,0 +1,14 @@
+{
+  "name": "aivec/url-parser",
+  "autoload": {
+    "psr-4": {
+      "Aivec\\Utils\\UrlParser\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Evan Shaw",
+      "email": "evandanielshaw@gmail.com"
+    }
+  ]
+}
